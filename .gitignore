@@ -1,0 +1,28 @@
+# --- 1. 윈도우 및 시스템 파일 (지저분한 파일들) ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- 2. 파이썬 관련 (자동 생성되는 필요 없는 파일들) ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- 3. 가상환경 폴더 (용량이 엄청 큼, 절대 올리면 안 됨) ---
+venv/
+env/
+.venv/
+
+# --- 4. 주피터 노트북 체크포인트 ---
+.ipynb_checkpoints/
+
+# --- 5. 데이터셋 (용량이 큰 원본 데이터 등) ---
+*.csv
+*.jpg
+*.png
+data/
+datasets/
+
+# --- 6. 보안 파일 (비밀번호, API 키 등 - 매우 중요!) ---
+.env
+secrets.json
