@@ -26,3 +26,5 @@ datasets/
 # --- 6. 보안 파일 (비밀번호, API 키 등 - 매우 중요!) ---
 .env
 secrets.json
+
+CNN Classification Model Design Report Minwoo Choi.docx
