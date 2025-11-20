@@ -27,4 +27,9 @@ datasets/
 .env
 secrets.json
 
+# 독스 파일 제거
 CNN Classification Model Design Report Minwoo Choi.docx
+
+# 
+cifar-10-python.tar.gz
+cifar-10-python/
